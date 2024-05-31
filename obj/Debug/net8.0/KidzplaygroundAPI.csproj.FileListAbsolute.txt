@@ -134,3 +134,4 @@ C:\Users\Archie\OneDrive\Systemutveckling.NET\Systemutveckling.NET\Kidzplaygroun
 C:\Users\Archie\OneDrive\Systemutveckling.NET\Systemutveckling.NET\KidzplaygroundAPI\KidzplaygroundAPI\obj\Debug\net8.0\KidzplaygroundAPI.pdb
 C:\Users\Archie\OneDrive\Systemutveckling.NET\Systemutveckling.NET\KidzplaygroundAPI\KidzplaygroundAPI\obj\Debug\net8.0\KidzplaygroundAPI.genruntimeconfig.cache
 C:\Users\Archie\OneDrive\Systemutveckling.NET\Systemutveckling.NET\KidzplaygroundAPI\KidzplaygroundAPI\obj\Debug\net8.0\ref\KidzplaygroundAPI.dll
+C:\Users\Archie\OneDrive\Systemutveckling.NET\Systemutveckling.NET\KidzplaygroundAPI\KidzplaygroundAPI\obj\Debug\net8.0\KidzplaygroundAPI.sourcelink.json

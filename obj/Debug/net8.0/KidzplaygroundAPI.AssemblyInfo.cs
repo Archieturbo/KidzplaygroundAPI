@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KidzplaygroundAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d4c9dd100a3542b04a1063ed7b99035eec1b1fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("KidzplaygroundAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KidzplaygroundAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
